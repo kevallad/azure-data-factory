@@ -1,0 +1,9 @@
+{
+	"name": "Instace-Git-AzureDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03e4341b-ad9d-4665-8bfa-0b7f1de27d44",
+		"tenantId": "7e281c5e-dfe9-40aa-b69d-300d55f285c2"
+	}
+}
